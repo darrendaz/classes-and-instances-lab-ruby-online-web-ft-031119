@@ -5,3 +5,7 @@ end
 fido = new.Dog
 snoopy = new.Dog
 lassie = new.Dog
+
+fido
+snoopy
+lassie
